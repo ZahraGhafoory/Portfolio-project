@@ -1,2 +1,2 @@
-# Portfolio-project
-Portfolio project class activity 
+Personal project
+personal  unfinished project about cultral cities.
